@@ -10,6 +10,7 @@ Building offline-first AI and hardware integrity architecture for environments w
 
 **Studio:** https://txpkev.github.io/novamindstudio
 **Contact:** ki27@ik.me  
-**LinkedIn:** https://www.linkedin.com/in/kevin-kachramanow
+**LinkedIn:** www.linkedin.com/in/kevin-kachramanow-ba9828397
 
-Swiss Innovation Challenge 2026.
+
+
